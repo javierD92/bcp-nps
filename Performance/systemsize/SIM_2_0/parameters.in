@@ -1,0 +1,16 @@
+32 32                     ! Lx, Ly
+22                        ! Np
+10000                     ! total_steps
+10000                     ! save_interval
+1000                      ! stats interval
+0.0816326530612245        ! dt
+1.0 1.0 0.35 0.5          ! Field Params
+0.0                       ! mean psi
+1.0 1.0                   ! Coupling
+1.7                       ! Reff
+10.0 1.7                  ! WCA
+0.05                      ! temp
+1.077572 4.152243         ! Gammas
+0.0                       ! vact
+0.11180339887498948       ! noise strength
+false                     ! custom initial condition

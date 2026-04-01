@@ -1,0 +1,20 @@
+# Field Visuals
+field:
+  v_min: -1.0
+  v_max: 1.0
+  cmap: "RdBu_r"
+
+# Particle Visuals
+particles:
+  c: "#F0E442"
+  edgecolors: "black"
+  zorder: 3
+
+# Quiver/Arrow Visuals
+quiver:
+  color: "white"
+  pivot: "tail"    # Arrow starts at particle center
+  units: "width"   # Screen-relative sizing (avoids huge arrows)
+  scale: 100        # Adjust this: smaller number = longer arrow
+  width: 0.005     # Thickness of the arrow stem
+  zorder: 4

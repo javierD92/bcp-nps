@@ -1,0 +1,24 @@
+ Equilibirum psi=  0.836660028    
+ affinity before scaling =    1.00000000    
+ affinity after scaling =   0.836660028    
+ >>> No restart file. Initializing new system.
+ initialise completely random state
+ ----------------------------------------------
+ Simulation Started
+ Grid Size: 1024 x 1024
+ Particles:  23098
+ Total Steps:      10000
+ ----------------------------------------------
+ Additional parameters
+ particle surface fraction   0.199996412    
+ Pe    0.00000000    
+ ----------------------------------------------
+ do a <<dry>> run at t=           1 to calculate properties
+ save initial state
+ >> Step:          1 (  0.01%) - Data Saved.
+ >> Step:      10000 (100.00%) - Data Saved.
+ saving final state at t=       10001
+ saving state at *.txt
+ saving stats at *.dat
+ saving checkpoint.bin in binary file for possible restart
+ program finishes normally
