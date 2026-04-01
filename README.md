@@ -1,6 +1,6 @@
-# Hybrid Active Brownian Particles and Phase Field Simulation
+# Hybrid method for cell dynamic simulations of block copolymer nanocomposites
 
-Thi repository contains the source code and postprocessing tools for the simulation of active particles in a phase-separating binary mixture. The model integrates a Cahn-Hilliard (Model B) field with Active Brownian Particles (ABPs).
+This repository contains the source code and postprocessing tools for the simulation of nanoparticles in a phase-separating Block copolymer melt. The model integrates a Cahn-Hilliard (Model B) field with  Brownian Particles.
 
 ## Project Overview
 
